@@ -21,6 +21,6 @@ public class PlayerController : MonoBehaviour
     private void Movemente()
     {
         horizontal = Input.GetAxis("Horizontal");
-        player.AddForce(Vector2.up * Time.deltaTime * speed);
+        player.AddForce(Vector2.up * Time.deltaTime * speed * horizontal);
     }
 }
