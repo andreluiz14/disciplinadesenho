@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: a7238672b511ff64ab91b6ab86ba52eb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Clava
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1104
+      height: 529
+    spriteID: d455b91f1e242034883ebeb0736138b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -138, y: -1062}
+  - name: Cabelo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 541
+      width: 496
+      height: 471
+    spriteID: ebc105ffb692ddb44a8418cb90f853e8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -783, y: -975}
+  - name: Cabeca
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1116
+      y: 4
+      width: 525
+      height: 571
+    spriteID: bdb773ab21ee2cb4284ceb983539ad06
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 370, y: -1323}
+  - name: MangaDireita
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 744
+      width: 150
+      height: 232
+    spriteID: 9d38e408452ebc94d8fdf5a0f2d164d5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -316, y: -281}
+  - name: Camisa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1653
+      y: 4
+      width: 284
+      height: 526
+    spriteID: 8226b7918b5c2b8449efc137ca6fdf8b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 753, y: -764}
+  - name: MangaEsquerda
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 793
+      y: 744
+      width: 125
+      height: 208
+    spriteID: c1929cfc2c6849b46b2da977d5810694
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -256, y: -342}
+  - name: ShortDireito
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1653
+      y: 538
+      width: 296
+      height: 342
+    spriteID: 3fbd239c4db46d74fb927e9406713e4a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 772, y: 28}
+  - name: ShortEsquerdo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1116
+      y: 578
+      width: 215
+      height: 284
+    spriteID: 04aa92b292c2f384dafe599f0366594c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 147, y: 24}
+  - name: TennisEsquerdo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 731
+      y: 541
+      width: 250
+      height: 167
+    spriteID: ac685fdb0cb89ac409075d6c53ce7bb8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -303, y: 371}
+  - name: TennisDireito
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 541
+      width: 262
+      height: 189
+    spriteID: ca5c092c6fca0c049adc812dcb49d4cd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -351, y: 470}
+  - name: BracoEsquerdo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1473
+      y: 578
+      width: 156
+      height: 256
+    spriteID: 3a5aceb086e12e545a47e3c554daf0ae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 367, y: -303}
+  - name: BracoDireito
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 666
+      y: 744
+      width: 119
+      height: 260
+    spriteID: 11fec24dbc236ee43b11662f1518ff8e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -121, y: -61}
+  - name: PernaEsquerda
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1945
+      y: 4
+      width: 97
+      height: 379
+    spriteID: 4509f1a291c0e474da36b8ee3bdcd2a5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 891, y: -270}
+  - name: PernaDireita
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1339
+      y: 578
+      width: 126
+      height: 373
+    spriteID: 2ef28a60ce38d014ab8c83433b54ba17
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 463, y: 375}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 1024
+  documentSize: {x: 2000, y: 2000}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Esboco
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 19
+    mosaicPosition: {x: 0, y: 0}
+  - name: Corbase
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 16
+    mosaicPosition: {x: 0, y: 0}
+  - name: Clava
+    spriteName: Clava
+    isGroup: 0
+    parentIndex: 1
+    spriteID: d455b91f1e242034883ebeb0736138b4
+    layerID: 15
+    mosaicPosition: {x: 4, y: 4}
+  - name: Cabelo
+    spriteName: Cabelo
+    isGroup: 0
+    parentIndex: 1
+    spriteID: ebc105ffb692ddb44a8418cb90f853e8
+    layerID: 20
+    mosaicPosition: {x: 4, y: 541}
+  - name: Cabeca
+    spriteName: Cabeca
+    isGroup: 0
+    parentIndex: 1
+    spriteID: bdb773ab21ee2cb4284ceb983539ad06
+    layerID: 14
+    mosaicPosition: {x: 1116, y: 4}
+  - name: MangaDireita
+    spriteName: MangaDireita
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 9d38e408452ebc94d8fdf5a0f2d164d5
+    layerID: 13
+    mosaicPosition: {x: 508, y: 744}
+  - name: Camisa
+    spriteName: Camisa
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8226b7918b5c2b8449efc137ca6fdf8b
+    layerID: 12
+    mosaicPosition: {x: 1653, y: 4}
+  - name: MangaEsquerda
+    spriteName: MangaEsquerda
+    isGroup: 0
+    parentIndex: 1
+    spriteID: c1929cfc2c6849b46b2da977d5810694
+    layerID: 11
+    mosaicPosition: {x: 793, y: 744}
+  - name: ShortDireito
+    spriteName: ShortDireito
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3fbd239c4db46d74fb927e9406713e4a
+    layerID: 10
+    mosaicPosition: {x: 1653, y: 538}
+  - name: ShortEsquerdo
+    spriteName: ShortEsquerdo
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 04aa92b292c2f384dafe599f0366594c
+    layerID: 9
+    mosaicPosition: {x: 1116, y: 578}
+  - name: TennisEsquerdo
+    spriteName: TennisEsquerdo
+    isGroup: 0
+    parentIndex: 1
+    spriteID: ac685fdb0cb89ac409075d6c53ce7bb8
+    layerID: 8
+    mosaicPosition: {x: 731, y: 541}
+  - name: TennisDireito
+    spriteName: TennisDireito
+    isGroup: 0
+    parentIndex: 1
+    spriteID: ca5c092c6fca0c049adc812dcb49d4cd
+    layerID: 7
+    mosaicPosition: {x: 508, y: 541}
+  - name: BracoEsquerdo
+    spriteName: BracoEsquerdo
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3a5aceb086e12e545a47e3c554daf0ae
+    layerID: 6
+    mosaicPosition: {x: 1473, y: 578}
+  - name: BracoDireito
+    spriteName: BracoDireito
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 11fec24dbc236ee43b11662f1518ff8e
+    layerID: 5
+    mosaicPosition: {x: 666, y: 744}
+  - name: PernaEsquerda
+    spriteName: PernaEsquerda
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 4509f1a291c0e474da36b8ee3bdcd2a5
+    layerID: 4
+    mosaicPosition: {x: 1945, y: 4}
+  - name: PernaDireita
+    spriteName: PernaDireita
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 2ef28a60ce38d014ab8c83433b54ba17
+    layerID: 3
+    mosaicPosition: {x: 1339, y: 578}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Guri Texture
+  prefabAssetName: Guri Prefab
+  spriteLibAssetName: Guri Sprite Lib
+  secondarySpriteTextures: []
