@@ -12566,13 +12566,6 @@ ScriptedImporter:
     spriteID: b725b0127e3647d44b6501532bd9008a
     layerID: 9
     mosaicPosition: {x: 1119, y: 541}
-  - name: TennisEsquerdo
-    spriteName: TennisEsquerdo
-    isGroup: 0
-    parentIndex: 1
-    spriteID: 9dadbcedfd84bb440a4968f48f1a77bb
-    layerID: 8
-    mosaicPosition: {x: 1119, y: 833}
   - name: TennisDireito
     spriteName: TennisDireito
     isGroup: 0
@@ -12587,13 +12580,6 @@ ScriptedImporter:
     spriteID: 1e7e092a5e314e34ba6425756a46fe82
     layerID: 6
     mosaicPosition: {x: 541, y: 891}
-  - name: PernaEsquerda
-    spriteName: PernaEsquerda
-    isGroup: 0
-    parentIndex: 1
-    spriteID: 8e7d976d17973a34786b6a5d5171883d
-    layerID: 4
-    mosaicPosition: {x: 1342, y: 541}
   - name: PernaDireita
     spriteName: PernaDireita
     isGroup: 0
@@ -12601,6 +12587,20 @@ ScriptedImporter:
     spriteID: 3b1b4a3624eec7d4eb34659f20611e41
     layerID: 3
     mosaicPosition: {x: 1912, y: 4}
+  - name: TennisEsquerdo
+    spriteName: TennisEsquerdo
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 9dadbcedfd84bb440a4968f48f1a77bb
+    layerID: 8
+    mosaicPosition: {x: 1119, y: 833}
+  - name: PernaEsquerda
+    spriteName: PernaEsquerda
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8e7d976d17973a34786b6a5d5171883d
+    layerID: 4
+    mosaicPosition: {x: 1342, y: 541}
   characterData:
     bones:
     - name: bone_1
